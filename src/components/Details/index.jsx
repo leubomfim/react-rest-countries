@@ -26,7 +26,7 @@ export const Details = ({ details = [] }) => {
                     </Styled.BorderCountryName>
                   ))
                 ) : (
-                  <p>No borders...</p>
+                  <Styled.Borders>No borders...</Styled.Borders>
                 )}
               </Styled.BorderDisplay>
             </Styled.BordersCountry>
