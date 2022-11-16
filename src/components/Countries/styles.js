@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled, { css } from 'styled-components';
 
 export const CardsWrapper = styled.div`
   display: grid;
@@ -28,3 +28,12 @@ export const CardsWrapper = styled.div`
     width: 100%;
   }
 `;
+
+export const Loading = styled.p`
+  text-align: center;
+  font-size: 32px;
+  ${({ theme }) => css`
+    color: ${theme.color};
+  `};
+ `:
+  
