@@ -10,7 +10,7 @@ export const Countries = () => {
     <section>
       <Container>
         {countries.length === 0 ? (
-          <p style={{ textAlign: 'center', fontSize: '32px' }}>Loading...</p>
+          <Styled.Loading>Loading...</Styled.Loading>
         ) : (
           <Styled.CardsWrapper>
             {countries.length > 0 && <CardCountries />}
