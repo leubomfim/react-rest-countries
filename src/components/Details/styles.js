@@ -73,3 +73,9 @@ ${({ theme }) => css`
   transition:  all 400ms ease-in-out;
 `};
 `;
+
+export const Borders = styled.p`
+${({ theme }) => css`
+  color: ${theme.color};
+`};
+`;
