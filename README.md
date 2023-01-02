@@ -1,4 +1,4 @@
-<h1 align="center">Frontend mentor - REST countries API with color theme switcher.</h1> 
+<h1 align="center">Frontend mentor - React REST countries API with color theme switcher.</h1> 
 
 <div align="center"> <a target="_blank" href="https://react-rest-countries-six.vercel.app/">Live Version</a> |  <a href="https://www.frontendmentor.io/solutions/solution-rest-countries-api-with-color-theme-switcher-Py6wOHLNMH">Solução</a>  |  <a href="https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca">Desafio</a> <br> Desafio feito pelo https://www.frontendmentor.io/</div>
 &nbsp;
